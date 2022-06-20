@@ -10,5 +10,5 @@ So before going into developing the app, first I created a High fidelity prototy
 ### Note Open Mode
 ![enter image description here](https://raw.githubusercontent.com/NyanCyanide/notesapp/main/assets/Figma.png)
 
-[Figma Prototype File](https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/pPGOkv9055ztnlJiCEbwM4/Untitled?page-id=8%253A16&node-id=8%253A101&viewport=681%252C-221%252C0.36&scaling=scale-down&starting-point-node-id=8%253A17)
+[Figma Prototype File](https://www.figma.com/proto/pPGOkv9055ztnlJiCEbwM4/Untitled?page-id=8%3A16&node-id=8%3A65&viewport=681%2C-221%2C0.36&scaling=scale-down&starting-point-node-id=8%3A17)
 If you are willing to help me out in completing the app, thank you!!
